@@ -116,7 +116,7 @@ export default {
   methods: {
     uploadSuccess (re, file) {
       if (re.code === 1) {
-        this.form.imagePath = re.response
+        window.location.reload()
       } else {
         this.$message.error(re.message)
       }
