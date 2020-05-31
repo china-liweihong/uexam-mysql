@@ -20,9 +20,6 @@
 * gitee - mysql ：[https://gitee.com/alvis-yu/uexam-mysql](https://gitee.com/alvis-yu/uexam-mysql)
 * github - mysql ：[https://github.com/alvis-u/uexam-mysql](https://github.com/alvis-u/uexam-mysql)
 
-### 腾讯课堂 - 学之思考试系统实战教学视频
- * [https://alvis.ke.qq.com/?tuin=a0850a43](https://alvis.ke.qq.com/?tuin=a0850a43)
-
 ### 学之思交流群(加群获取数据库脚本)
 * 交流一群：`530136203`(满)
 * 交流二群：`947654489`(满)
