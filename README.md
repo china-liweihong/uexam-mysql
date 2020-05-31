@@ -32,6 +32,7 @@
 
  
 ### 大事件
+ * 2020/5 商业考试系统思多多正式版发布 地址：[http://www.alvisu.com/sdd.html](http://www.alvisu.com/sdd.html) 
  * 2020/3 考试系统实战教程发布 试听地址：[https://alvis.ke.qq.com/?tuin=a0850a43](https://alvis.ke.qq.com/?tuin=a0850a43)
  * 2020/2 项目累计突破2000 star
  * 2020/1 累计超过150万用户使用
